@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.black{
+    background-color: black;
+    height: 50px;
+}
+.frist {
+    background-color: chocolate;
+}
+.k {
+    text-decoration: none;
+    color: white;
+    float: right;
+}
+.service, .About, .coollinks, .contact, .partner{
+      margin-left: 100px;
+      margin-top: 30px;
+}
+.logo {
+    color: white;
+    margin-left: 40px;
+}
+.h {
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.ul1 {
+    margin-left: 100vh;
+}
+.footer {
+    display: flex;
+    background-color: chocolate;
+    height: 200px;
+    color: white;
+    /* margin-left: ; */
+}
+li{
+    list-style-type: none;
+}
+.second{
+    margin-left: 50px ;
+}
